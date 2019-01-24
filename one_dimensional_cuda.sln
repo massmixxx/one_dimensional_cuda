@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "one_dimensional_cuda", "one_dimensional_cuda\one_dimensional_cuda.vcxproj", "{366152FA-8F5B-4D0C-8190-69EF606F4CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{366152FA-8F5B-4D0C-8190-69EF606F4CC9}.Debug|x64.ActiveCfg = Debug|x64
+		{366152FA-8F5B-4D0C-8190-69EF606F4CC9}.Debug|x64.Build.0 = Debug|x64
+		{366152FA-8F5B-4D0C-8190-69EF606F4CC9}.Release|x64.ActiveCfg = Release|x64
+		{366152FA-8F5B-4D0C-8190-69EF606F4CC9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D27DB984-CCF8-4C08-A03A-059D58B4E3AA}
+	EndGlobalSection
+EndGlobal
